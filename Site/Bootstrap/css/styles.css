@@ -1,12 +1,6 @@
-.container{
-    background-color: aquamarine;
-}
-.row{
-    margin-bottom: 15px;
-}
-.row > div {
-    border: 2px solid rgb(22, 30, 140);
-    background-color: gray;
-    color: white;
-    font-weight: bold;
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Chakra Petch', sans-serif;;
 }
